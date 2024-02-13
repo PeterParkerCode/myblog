@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://peterparkercodemarkII.github.io/sitemap.xml
